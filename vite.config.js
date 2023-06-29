@@ -11,5 +11,6 @@ export default defineConfig({
         dynamicImportFunction: '__import__',
       },
     },
+    chunkSizeWarningLimit: 1000, // Postavite granicu prema vašim potrebama
   },
 });
