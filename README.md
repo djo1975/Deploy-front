@@ -72,15 +72,7 @@ The main features of this website are:
 - Frameworks: React, Redux, and Bootstrap.
 - Code Editor: VS Code, or Any.
 
-## Getting Started <a name="getting-started"></a>
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-- A web browser like Google Chrome.
-- A code editor like Visual Studio Code with Git and Nodejs.
-
+## Getting Started <a name="getting-started"></a>npm 
 > You can check if Git is installed by running the following command in the terminal.
 
 ```
